@@ -1,31 +1,31 @@
 ---
-title: "Kontakt"
+title: "Kontakti"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Tu smo, da vam pomagamo najti najboljše izdelke protivlomne alarme in varnostne rešitve za vaše podjetje. Ne glede na to, ali potrebujete tehnično podporo, informacije o distribuciji ali partnerstvu, je naša izkušena ekipa pripravljena pomagati.
+Mēs esam šeit, lai palīdzētu jums atrast labākos signalizācijas produktus un drošības risinājumus jūsu uzņēmumam. Neatkarīgi no tā, vai jums nepieciešama tehniskā atbalsta informācija, izplatīšanas detaļas vai partnerības informācija, mūsu pieredzējušā komanda ir gatava palīdzēt.
 
-## 📍 Kontakt Athenalarm
+## 📍 Sazinieties ar Athenalarm
 
-**Naslov:**  
+**Adrese:**  
 D910, Silver Star Scientific and Technical Building,  
-Guanlan, Longhua, Shenzhen, Guangdong, Kitajska  
+Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-pošta:**  
+**E-pasts:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobilni / WhatsApp / Viber:**  
+**Mobilais / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Spletna stran:**  
+**Tīmekļa vietne:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Povežite se z nami
+## 🌐 Sazinieties ar mums tiešsaistē
 
-Ostanite obveščeni o naših najnovejših varnostnih inovacijah, študijah primerov in predstavitvah izdelkov:
+Sekojiet līdzi mūsu jaunākajiem drošības inovācijām, gadījumu izpētei un produktu jaunumiem:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Ostanite obveščeni o naših najnovejših varnostnih inovacijah, študijah prim
 
 ---
 
-> _Athenalarm — Profesionalni proizvajalec protivlomnih alarmov in rešitve za mrežno nadzorovanje alarmov._
+> _Athenalarm — Profesionāls signalizācijas ražotājs un tīkla signalizācijas uzraudzības risinājumi._
