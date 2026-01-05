@@ -26,7 +26,7 @@ Izkliedēti pasūtījumi pastiprina piegādes ķēdes riskus. Kvalitātes probl�
 
 ### II. Daudzceļu komunikācija un tīkla noturība
 
-2026. gadā daudzceļu komunikācija vairs nav greznība — tā ir prasība uzticamai globālai darbībai. Izplatītājiem prioritāte būtu jāpiešķir vadības paneļiem, kas atbalsta liekos kanālus, piemēram, GSM mobilo sakaru tīklu un Wi-Fi.
+2026\. gadā daudzceļu komunikācija vairs nav greznība — tā ir prasība uzticamai globālai darbībai. Izplatītājiem prioritāte būtu jāpiešķir vadības paneļiem, kas atbalsta liekos kanālus, piemēram, GSM mobilo sakaru tīklu un Wi-Fi.
 
 Kāpēc tas ir svarīgi:
 - **Tīkla redundance**: Duālie sakaru ceļi nodrošina trauksmes signālu, statusa atjauninājumu un konfigurācijas izmaiņu piegādi pat tad, ja viens kanāls neizdodas (svarīgi reģionos ar nekonsekventu internetu vai mobilo pārklājumu).
